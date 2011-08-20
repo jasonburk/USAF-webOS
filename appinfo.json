@@ -1,0 +1,9 @@
+{
+	"id": "com.twothirtyam.usaf",
+	"version": "1.3.5",
+	"vendor": "TwoThirtyAM",
+	"type": "web",
+	"main": "index.html",
+	"title": "USAF",
+	"icon": "icon.png"
+}

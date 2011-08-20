@@ -1,0 +1,133 @@
+[
+    {
+        "source": "app/assistants/stage-assistant.js"
+    }, 
+    {
+        "source": "app/views/main/main-chrome.js", 
+        "scenes": "main"
+    }, 
+    {
+        "source": "app/assistants/main-assistant.js", 
+        "scenes": "main"
+    }, 
+    {
+        "source": "app/assistants/EnlistedRanks-assistant.js", 
+        "scenes": "EnlistedRanks"
+    }, 
+    {
+        "source": "app/views/EnlistedRanks/EnlistedRanks-chrome.js", 
+        "scenes": "EnlistedRanks"
+    }, 
+    {
+        "source": "app/assistants/officerRanks-assistant.js", 
+        "scenes": "officerRanks"
+    }, 
+    {
+        "source": "app/views/officerRanks/officerRanks-chrome.js", 
+        "scenes": "officerRanks"
+    }, 
+    {
+        "source": "app/assistants/enlistedRanks-assistant.js", 
+        "scenes": "enlistedRanks"
+    }, 
+    {
+        "source": "app/views/enlistedRanks/enlistedRanks-chrome.js", 
+        "scenes": "enlistedRanks"
+    }, 
+    {
+        "source": "app/assistants/majorCommands-assistant.js", 
+        "scenes": "majorCommands"
+    }, 
+    {
+        "source": "app/views/majorCommands/majorCommands-chrome.js", 
+        "scenes": "majorCommands"
+    }, 
+    {
+        "source": "app/assistants/aircraft-assistant.js", 
+        "scenes": "aircraft"
+    }, 
+    {
+        "source": "app/views/aircraft/aircraft-chrome.js", 
+        "scenes": "aircraft"
+    }, 
+    {
+        "source": "app/assistants/airForceSong-assistant.js", 
+        "scenes": "airForceSong"
+    }, 
+    {
+        "source": "app/views/airForceSong/airForceSong-chrome.js", 
+        "scenes": "airForceSong"
+    }, 
+    {
+        "source": "app/assistants/links-assistant.js", 
+        "scenes": "links"
+    }, 
+    {
+        "source": "app/views/links/links-chrome.js", 
+        "scenes": "links"
+    }, 
+    {
+        "source": "app/assistants/thunderbirdsSchedule-assistant.js", 
+        "scenes": "thunderbirdsSchedule"
+    }, 
+    {
+        "source": "app/views/thunderbirdsSchedule/thunderbirdsSchedule-chrome.js", 
+        "scenes": "thunderbirdsSchedule"
+    }, 
+    {
+        "source": "app/assistants/decorations-assistant.js", 
+        "scenes": "decorations"
+    }, 
+    {
+        "source": "app/views/decorations/decorations-chrome.js", 
+        "scenes": "decorations"
+    }, 
+    {
+        "source": "app/assistants/acronyms-assistant.js", 
+        "scenes": "acronyms"
+    }, 
+    {
+        "source": "app/views/acronyms/acronyms-chrome.js", 
+        "scenes": "acronyms"
+    }, 
+    {
+        "source": "app/assistants/webView-assistant.js", 
+        "scenes": "webView"
+    }, 
+    {
+        "source": "app/views/webView/webView-chrome.js", 
+        "scenes": "webView"
+    }, 
+    {
+        "source": "app/assistants/militaryTime-assistant.js", 
+        "scenes": "militaryTime"
+    }, 
+    {
+        "source": "app/views/militaryTime/militaryTime-chrome.js", 
+        "scenes": "militaryTime"
+    }, 
+    {
+        "source": "app/assistants/utilities-assistant.js", 
+        "scenes": "utilities"
+    }, 
+    {
+        "source": "app/views/utilities/utilities-chrome.js", 
+        "scenes": "utilities"
+    }, 
+    {
+        "source": "app/assistants/afRSS-assistant.js", 
+        "scenes": "afRSS"
+    }, 
+    {
+        "source": "app/views/afRSS/afRSS-chrome.js", 
+        "scenes": "afRSS"
+    }, 
+    {
+        "source": "app/assistants/firstLaunch-assistant.js", 
+        "scenes": "firstLaunch"
+    }, 
+    {
+        "source": "app/views/firstLaunch/firstLaunch-chrome.js", 
+        "scenes": "firstLaunch"
+    }
+]
